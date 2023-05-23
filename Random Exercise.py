@@ -1,6 +1,5 @@
 # REG - Random Exercise Generator
 # v1.07 Up to 2 exercises allowed at a time, Supersets on each day
-# Changes needed - if today is ** then do **, here are two exercises:
 # Changes added - external files used for lists
 
 import tkinter as tk
