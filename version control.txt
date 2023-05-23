@@ -1,0 +1,17 @@
+v1.01 release
+Gives a random option from a list of exercises
+
+v1.02 release
+Offer choice of two exercises, no more than two
+
+v1.03 release
+Windows scheduler to run at 10 to every hour the computer is on
+
+v1.05
+Create a simple GUI
+
+v1.06
+2 exercises are given in supersets depending on day of the week
+
+v1.07
+Facility added to add news exercises to groups, which are now stored in external files
